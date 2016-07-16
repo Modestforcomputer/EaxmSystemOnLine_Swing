@@ -1,0 +1,6 @@
+1000:张三:1234:13810381038:zhangsan@tarena.com.cn
+1001:李四:1234:13810381038:lisi@tarena.com.cn
+1002:王五:1234:13810381038:wangwu@tarena.com.cn
+1003:赵六:1234:13810381038:wangwu@tarena.com.cn
+1004:刘二:1234:13810381038:liuer@tarena.com.cn
+1005:鬼脚七:1234:13810381038:guijiaoqi@tarena.com.cn
